@@ -1,1 +1,1 @@
-# wics-database-v2
+# journal
